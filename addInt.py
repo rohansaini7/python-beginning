@@ -1,3 +1,4 @@
+#to add 2 integers
 print("enetr number that u want to add")
 a=int(input("enter first no"))
 b=int(input("eneter second no"))
